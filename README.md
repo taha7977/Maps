@@ -1,1 +1,1 @@
-This i a website for maps
+This is a website for maps
