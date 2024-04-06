@@ -11,6 +11,7 @@
             margin: 0;
             padding: 0;
             background-color: #f0f0f0;
+            position: relative;
         }
         header {
             background-color: #333;
@@ -55,6 +56,11 @@
         .blue {
             background-color: blue;
         }
+        .logo {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+        }
     </style>
 </head>
 <body>
@@ -70,7 +76,7 @@
     <section>
         <h2>A Glimpse into the Past</h2>
         <p>Explore the rich tapestry of human history through maps, starting from the ancient civilizations to the modern world. Witness the rise and fall of empires, the exploration of new lands, and the exchange of cultures.</p>
-        <img src="world_map.jpg" alt="World Map" style="display: block; margin: 0 auto; max-width: 100%;">
+        <img src="https://yt3.googleusercontent.com/ytc/AIdro_mqZ1bs571R7s9rxKify7sHtTL4YfEsR0-pP6806oVxrJw=s176-c-k-c0x00ffffff-no-rj" alt="Channel Logo" class="logo">
     </section>
     <footer>
         <div class="circle red"></div>
