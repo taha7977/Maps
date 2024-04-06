@@ -1,11 +1,9 @@
-This is a website for maps
-https://yt3.googleusercontent.com/ytc/AIdro_mqZ1bs571R7s9rxKify7sHtTL4YfEsR0-pP6806oVxrJw=s176-c-k-c0x00ffffff-no-rj
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Simple Website</title>
+    <title>History of the World Through Maps: Aegis of Takshashila</title>
     <style>
         /* CSS styles can be added here or linked externally */
         body {
@@ -61,18 +59,18 @@ https://yt3.googleusercontent.com/ytc/AIdro_mqZ1bs571R7s9rxKify7sHtTL4YfEsR0-pP6
 </head>
 <body>
     <header>
-        <h1>Welcome to My Simple Website</h1>
+        <h1>History of the World Through Maps: Aegis of Takshashila</h1>
     </header>
     <nav>
         <a href="#">Home</a>
         <a href="#">About</a>
-        <a href="#">Services</a>
+        <a href="#">Maps</a>
         <a href="#">Contact</a>
     </nav>
     <section>
-        <h2>About Us</h2>
-        <p>This is a simple website created using HTML. You can modify it according to your needs.</p>
-        <img src="https://yt3.googleusercontent.com/ytc/AIdro_mqZ1bs571R7s9rxKify7sHtTL4YfEsR0-pP6806oVxrJw=s176-c-k-c0x00ffffff-no-rj" alt="Description of the image" style="display: block; margin: 0 auto; max-width: 100%;">
+        <h2>A Glimpse into the Past</h2>
+        <p>Explore the rich tapestry of human history through maps, starting from the ancient civilizations to the modern world. Witness the rise and fall of empires, the exploration of new lands, and the exchange of cultures.</p>
+        <img src="world_map.jpg" alt="World Map" style="display: block; margin: 0 auto; max-width: 100%;">
     </section>
     <footer>
         <div class="circle red"></div>
