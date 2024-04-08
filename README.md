@@ -70,7 +70,7 @@
     <nav>
         <a href="#">Home</a>
         <a href="#">About</a>
-         <a href="maps" target="https://www.youtube.com/watch?v=SYzqh-TKY8E&ab_channel=JesperKyd">Tumbbade</a>
+         <a href="maps" target="https://www.youtube.com/watch?v=SYzqh-TKY8E&ab_channel=JesperKyd"></a>
         <a href="#">Contact</a>
     </nav>
     <section>
