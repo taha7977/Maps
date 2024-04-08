@@ -70,7 +70,7 @@
     <nav>
         <a href="#">Home</a>
         <a href="#">About</a>
-         <a href= target="https://www.youtube.com/watch?v=SYzqh-TKY8E&ab_channel=JesperKyd">Maps</a>
+       <a href="https://www.youtube.com/watch?v=SYzqh-TKY8E&ab_channel=JesperKyd" target="_blank">JesperKyd</a>
         <a href="#">Contact</a>
     </nav>
     <section>
