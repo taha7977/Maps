@@ -85,3 +85,92 @@
     </footer>
 </body>
 </html>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Taxation of Capital Gains</title>
+</head>
+<body>
+
+<h1>Capital Gains (Ss. 45 — 55A)</h1>
+<ul>
+  <li>Taxation of capital gains as departure from general rule
+    <ul>
+      <li>Separate treatment due to one-time receipts and inflation</li>
+      <li>Special scheme for computation of tax liability</li>
+    </ul>
+  </li>
+</ul>
+
+<h2>Chargeability (S.45, r/w S.54)</h2>
+<ul>
+  <li>Conditions for capital gain
+    <ul>
+      <li>Capital asset, transfer, previous year, profit/gain, not exempt</li>
+      <li>Taxability in assessment year</li>
+    </ul>
+  </li>
+  <li>Capital Assets (S.2(14))
+    <ul>
+      <li>Definition and exceptions
+        <ul>
+          <li>Stock in trade, personal effects, rural agricultural land, bonds</li>
+        </ul>
+      </li>
+      <li>Period of holding for classification</li>
+      <li>Adjustments for certain assets</li>
+    </ul>
+  </li>
+  <li>Transfer (S.2(47))
+    <ul>
+      <li>Definition and examples
+        <ul>
+          <li>Wide scope and exceptions</li>
+          <li>Case law: Vaniya Silk Mills v. CIT</li>
+        </ul>
+      </li>
+      <li>Deemed Consideration (S.50C)
+        <ul>
+          <li>Reasons and benefits</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h2>Quantification of Capital Gain (S.48)</h2>
+<ul>
+  <li>Calculation of gains
+    <ul>
+      <li>Indexed Cost of Acquisition and Improvement</li>
+      <li>Deemed Consideration</li>
+    </ul>
+  </li>
+</ul>
+
+<h2>Computation of Tax on Gain</h2>
+<ul>
+  <li>Inclusion in total income
+    <ul>
+      <li>STCG (S.111A)
+        <ul>
+          <li>Specified conditions and rates</li>
+        </ul>
+      </li>
+      <li>LTCG (S.112, S.112A)
+        <ul>
+          <li>Conditions and rates</li>
+          <li>Deductions and implications</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+</body>
+</html>
